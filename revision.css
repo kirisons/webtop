@@ -1,0 +1,57 @@
+body{
+background-image: url(rev1.jpg);repeat;
+}
+h1 ,h2{
+    text-transform: capitalize;
+    color:azure;
+}
+details{
+    font-size: 26px;
+    color: yellow;
+}
+ a{
+    color: yellow;
+    font-size: 24px;
+    text-decoration: none;
+    
+}
+li{
+    list-style: none;
+    line-height: 80px;
+    text-transform: capitalize;
+}
+.family{
+    padding-left: 40%;
+}
+
+table{
+    width: 50%; border: solid 2px aqua;
+    background-image: linear-gradient(to right,orange,green);
+    position: absolute;
+    left: 25%;
+    height: 300px;
+    text-align: center;
+    margin: 5px;
+    border-spacing: 10px;
+}
+tr{
+border-radius: 3px;
+border:2px yellow solid;
+margin: 5px;
+    
+
+}
+th ,td{
+    border-radius: 10px;
+    border: 5px brown solid;
+    color:white;
+    font-size: 30px;
+    width: 100px;
+    margin: 5px;
+
+}
+th{
+    color:aqua
+}
+
+
